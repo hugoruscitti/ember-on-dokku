@@ -22,6 +22,10 @@ En mi caso, tengo un dominio apuntando a una imagen dokku en digitalocean. La im
 
 ![](images/image.png)
 
+ATENCIÓN, si el droplet tiene menos de 1GB de ram se podría quedar sin memoria, es buena idea crear un swap: https://www.digitalocean.com/community/tutorials/how-to-add-swap-on-ubuntu-14-04
+
+
+
 Luego, nuevamente en mi caso, hay un dominio apuntando al equipo:
 
 ![](images/dns.png)
